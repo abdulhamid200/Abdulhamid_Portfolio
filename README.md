@@ -37,5 +37,5 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 *Interactive dashboard showing consumer behavior patterns and trends*
 
 **Presentation Highlights:**
-![Presentation Slide](images/project1-presentation-preview.png)
+![Presentation Slide](images/PPT-Insights&Recommendation.png)
 *Key insights and recommendations presented for stakeholders*
