@@ -41,3 +41,7 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 *Key insights and recommendations presented for stakeholders*
 
 📊 **[View Excel Analysis](files/Buying-Behaviour-of-Nigerians-Analysis-and-Dashboard.xlsx)**
+
+**[View Presentation (PDF)](files/BUYING-BEHAVIOUR-OF-NIGERIANS-PRESENTATION-SLIDES.pdf)** | **[Download PowerPoint](files/nigerian-consumer-behavior-presentation.pptx)**
+
+---
