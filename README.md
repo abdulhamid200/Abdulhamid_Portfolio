@@ -35,3 +35,7 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 **Excel Dashboard:**
 ![Dashboard Screenshot](images/Dashboard-Buying-Behaviour.png)
 *Interactive dashboard showing consumer behavior patterns and trends*
+
+**Presentation Highlights:**
+![Presentation Slide](images/project1-presentation-preview.png)
+*Key insights and recommendations presented for stakeholders*
