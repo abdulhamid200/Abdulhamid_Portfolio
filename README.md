@@ -17,15 +17,6 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 - **Dashboard Creation:** Built an interactive dashboard featuring pie charts, donut charts, clustered column charts, and line charts to visualize key trends and insights
 - **Presentation Development:** Created a simple PowerPoint presentation to communicate findings, insights, and strategic recommendations to stakeholders
 
-**Key Insights:**
-- Majority of consumers (26–35 age range) are young, urban, digitally active shoppers
-- WhatsApp emerging as significant digital marketplace; bank transfers dominate payments
-- Product quality and discounts are primary purchase drivers
-
-**Business Recommendations:**
-- Leverage WhatsApp Business and target 18–35 demographic for maximum ROI
-- Emphasize product quality messaging with strategic discount programs
-
 **Tools Used:** Microsoft Excel (IF Functions, Nested IF, Pivot Tables, Descriptive Statistics, Data Visualization), Google Forms, Microsoft PowerPoint
 
 *For detailed insights and full recommendations, view the presentation deck below.*
