@@ -33,4 +33,4 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 **Project Deliverables:**
 
 **Excel Dashboard:**
-![Dashboard Screenshot] https://github.com/abdulhamid200/Abdulhamid_Portfolio/blob/main/images/Dashboard-Buying-Behaviour.png
+![Dashboard Screenshot]images/Dashboard-Buying-Behaviour.png
