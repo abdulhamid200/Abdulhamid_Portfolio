@@ -39,3 +39,5 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 **Presentation Highlights:**
 ![Presentation Slide](images/PPT-Insights&Recommendation.png)
 *Key insights and recommendations presented for stakeholders*
+
+📊 **[View Excel Analysis](files/Buying Behaviour of Nigerians (Analysis and Dashboard).xlsx)**
