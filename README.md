@@ -73,8 +73,8 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 **Project Deliverables:**
 
 **Excel Analysis:**
-**[View Excel Analysis](files/employee-performance-analysis.xlsx)**
+**[View Excel Analysis](files/WEEK-4-PROJECT.xlsx)**
 
-**[View Presentation (PDF)](files/employee-performance-presentation.pdf)** | **[Download PowerPoint](files/employee-performance-presentation.pptx)**
+**[View Presentation (PDF)](files/Employee-Performance-Insights.pdf)**
 
 ---
