@@ -53,6 +53,6 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 📊 **[View Excel Analysis](files/WEEK-5-PROJECT.xlsx)**
 
 **Presentation Slide:**
-📑 **[View Presentation (PDF)](files/superstore-sales-presentation.pdf)** | **[Download PowerPoint](files/superstore-sales-presentation.pptx)**
+📑 **[View Presentation (PDF)](files/WEEK-5-PROJECT-PRESENTATION-SLIDES.pdf)**
 
 ---
