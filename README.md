@@ -46,3 +46,13 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 - **Pivot Table Analysis:** Created multiple pivot tables to examine sales trends across regions, product categories, customer segments, and time periods
 - **Dashboard Development:** Built an interactive Excel dashboard with dynamic visualizations to track key performance indicators and sales patterns
 - **Presentation Creation:** Developed a PowerPoint presentation communicating findings and strategic recommendations to stakeholders
+
+**Project Deliverables:**
+
+**Excel Dashboard:**
+📊 **[View Excel Analysis](files/superstore-sales-analysis.xlsx)**
+
+**Presentation Slide:**
+📑 **[View Presentation (PDF)](files/superstore-sales-presentation.pdf)** | **[Download PowerPoint](files/superstore-sales-presentation.pptx)**
+
+---
