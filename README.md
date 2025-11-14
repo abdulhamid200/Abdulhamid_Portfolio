@@ -56,3 +56,14 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 📑 **[View Presentation (PDF)](files/WEEK-5-PROJECT-PRESENTATION-SLIDES.pdf)**
 
 ---
+
+### 📊 Project 3: Employee Performance and Departmental Insights Report
+
+**Objective:** To provide actionable insights from 200 employee records across Finance, HR, IT, and Sales departments. This data-driven analysis examines workforce demographics, performance distribution, compensation structure, and eligibility metrics to inform HR leaders and senior managers on retention strategies and pay equity opportunities.
+
+**Approach:**
+- **Data Cleaning & Preparation:** Cleaned and validated employee records to ensure data accuracy and consistency across all departmental metrics
+- **Advanced Analysis:** Applied filtering and sorting techniques combined with advanced lookup functions (VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH) to cross-reference employee data, retrieve departmental compensation benchmarks, and identify performance patterns
+- **Performance Segmentation:** Categorized employees into performance tiers to assess distribution and identify high performers versus areas requiring improvement
+- **Compensation Analysis:** Examined salary structures across departments to uncover pay disparities and opportunities for equity adjustments
+- **Presentation Development:** Created a comprehensive PowerPoint presentation to communicate workforce insights and strategic HR recommendations
