@@ -67,3 +67,9 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 - **Performance Segmentation:** Categorized employees into performance tiers to assess distribution and identify high performers versus areas requiring improvement
 - **Compensation Analysis:** Examined salary structures across departments to uncover pay disparities and opportunities for equity adjustments
 - **Presentation Development:** Created a comprehensive PowerPoint presentation to communicate workforce insights and strategic HR recommendations
+
+**Tools Used:** Microsoft Excel (VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH, Filtering & Sorting, Data Cleaning), Microsoft PowerPoint
+
+**Project Deliverables:**
+
+**Excel Analysis:**
