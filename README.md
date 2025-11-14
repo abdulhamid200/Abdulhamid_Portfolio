@@ -36,3 +36,13 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 **[View Presentation (PDF)](files/BUYING-BEHAVIOUR-OF-NIGERIANS-PRESENTATION-SLIDES.pdf)**
 
 ---
+
+### 📊 Project 2: Superstore Sales Performance Analysis
+
+**Objective:** To analyze overall sales performance across different regions, categories, and customer segments to identify top-performing products and areas for revenue growth.
+
+**Approach:**
+- **Data Analysis:** Leveraged a clean superstore dataset containing order details, customer information, product categories, and financial metrics (sales, profit, discount)
+- **Pivot Table Analysis:** Created multiple pivot tables to examine sales trends across regions, product categories, customer segments, and time periods
+- **Dashboard Development:** Built an interactive Excel dashboard with dynamic visualizations to track key performance indicators and sales patterns
+- **Presentation Creation:** Developed a PowerPoint presentation communicating findings and strategic recommendations to stakeholders
