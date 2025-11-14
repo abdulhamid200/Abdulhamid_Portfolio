@@ -6,7 +6,7 @@ Hello! I'm **Abdulhamid**, a recent graduate with a passion for transforming dat
 This portfolio showcases projects that demonstrate my ability to clean, analyze, and visualize data to deliver clear and impactful insights.
 
 ---
-### 📊 Project 1: Buying Behaviour of Nigerians (Analysis and Dashboard)
+### Project 1: Buying Behaviour of Nigerians (Analysis and Dashboard)
 
 **Objective:** To understand the factors influencing Nigerian consumer purchasing decisions. My analysis here provides actionable insights to guide Nigerian small scale business on their marketing strategies and retail decisions.
 
@@ -31,13 +31,13 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 ![Presentation Slide](images/PPT-Insights&Recommendation.png)
 *Key insights and recommendations presented for stakeholders*
 
-📊 **[View Excel Analysis](files/Buying-Behaviour-of-Nigerians-Analysis-and-Dashboard.xlsx)**
+**[View Excel Analysis](files/Buying-Behaviour-of-Nigerians-Analysis-and-Dashboard.xlsx)**
 
 **[View Presentation (PDF)](files/BUYING-BEHAVIOUR-OF-NIGERIANS-PRESENTATION-SLIDES.pdf)**
 
 ---
 
-### 📊 Project 2: Superstore Sales Performance Analysis
+### Project 2: Superstore Sales Performance Analysis
 
 **Objective:** To analyze overall sales performance across different regions, categories, and customer segments to identify top-performing products and areas for revenue growth.
 
@@ -50,14 +50,14 @@ This portfolio showcases projects that demonstrate my ability to clean, analyze,
 **Project Deliverables:**
 
 **Excel Dashboard:**
-📊 **[View Excel Analysis](files/WEEK-5-PROJECT.xlsx)**
+**[View Excel Analysis](files/WEEK-5-PROJECT.xlsx)**
 
 **Presentation Slide:**
-📑 **[View Presentation (PDF)](files/WEEK-5-PROJECT-PRESENTATION-SLIDES.pdf)**
+**[View Presentation (PDF)](files/WEEK-5-PROJECT-PRESENTATION-SLIDES.pdf)**
 
 ---
 
-### 📊 Project 3: Employee Performance and Departmental Insights Report
+### Project 3: Employee Performance and Departmental Insights Report
 
 **Objective:** To provide actionable insights from 200 employee records across Finance, HR, IT, and Sales departments. This data-driven analysis examines workforce demographics, performance distribution, compensation structure, and eligibility metrics to inform HR leaders and senior managers on retention strategies and pay equity opportunities.
 
